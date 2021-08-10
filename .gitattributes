@@ -1,0 +1,2 @@
+*prod-crypt* filter=git-crypt-prod diff=git-crypt-prod
+*test-crypt* filter=git-crypt-test diff=git-crypt-test
